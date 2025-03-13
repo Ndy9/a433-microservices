@@ -1,0 +1,22 @@
+{
+  "name": "a433-microservices",
+  "version": "1.0.0",
+  "description": "Repository ini digunakan untuk kebutuhan kelas Belajar Membangun Arsitektur Microservices",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js",
+    "build": "echo 'No build step required'"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dicodingacademy/a433-microservices.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dicodingacademy/a433-microservices/issues"
+  },
+  "homepage": "https://github.com/dicodingacademy/a433-microservices#readme"
+}
